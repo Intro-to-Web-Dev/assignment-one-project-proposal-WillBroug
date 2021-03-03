@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(243, 240, 210); text-align: center;}
+   h1
+   {color: rgb(211, 82, 82) }
+   
+   p
+{ color: lightslategray}
+   ol 
+   {color: lightslategray}
+   h3
+   {color: goldenrod}
+   body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+   }
